@@ -1,5 +1,13 @@
+## <small>0.1.10 (2020-06-30)</small>
+
+* perf: show only message ([ba737ed](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/ba737ed))
+
+
+
 ## <small>0.1.9 (2020-06-30)</small>
 
+* 0.1.9 ([5c56137](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/5c56137))
+* build: update changelog ([6242cdd](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/6242cdd))
 * fix: typo in code ([b9b794c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/b9b794c))
 
 
