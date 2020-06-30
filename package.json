@@ -1,0 +1,21 @@
+{
+  "version": "0.0.0",
+  "name": "awesome-readme-lint-double-link-action",
+  "main": "index.js",
+  "scripts": {
+    "version": "conventional-changelog -i changelog.md -s -r 0 && git add changelog.md && git commit -m \"build: update changelog\"",
+    "test": "xo"
+  },
+  "dependencies": {
+    "actions-toolkit": "^3.0.1",
+    "awesome-readme-lint-double-link": "0.0.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-angular": "^8.3.4",
+    "conventional-changelog-cli": "^2.0.34",
+    "husky": "^4.2.5",
+    "xo": "^0.28.0"
+  }
+}
