@@ -9,10 +9,10 @@ Toolkit.run(tools => {
   
   awesomeReadmeLintDoubleLink(contents)
     .then(() => {
-      tools.log.success('Things are good')
+      tools.exit.success(('Things are good')
     })
     .catch(error => {
-      tools.log.fatal(error)
+      tools.exit.failure(error)
     });
 }, {
   event: [
