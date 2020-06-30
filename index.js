@@ -3,11 +3,17 @@ const { Toolkit } = require('actions-toolkit');
 const awesomeReadmeLintDoubleLink = require('awesome-readme-lint-double-link');
 
 
-Toolkit.run(async tools => {
+Toolkit.run(tools => {
   const readmeFileName = tools.inputs.entry;
   const contents = tools.getFile(readmeFileName);
   
-  await awesomeReadmeLintDoubleLink(contents);
+  awesomeReadmeLintDoubleLink(contents)
+    .then(() => {
+      tools.log.success('Things are good')
+    })
+    .catch(error => {
+      tools.log.fatal(error)
+    });
 }, {
   event: [
     'pull_request.opened',
