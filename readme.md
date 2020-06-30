@@ -25,3 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+## Related
+- [awesome-readme-lint-double-link](https://github.com/Scrum/awesome-readme-lint-double-link) - Lint double link in awesome readme
