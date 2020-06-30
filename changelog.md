@@ -1,5 +1,13 @@
+## <small>0.1.9 (2020-06-30)</small>
+
+* fix: typo in code ([b9b794c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/b9b794c))
+
+
+
 ## <small>0.1.8 (2020-06-30)</small>
 
+* 0.1.8 ([c3f779d](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/c3f779d))
+* build: update changelog ([9dc93be](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/9dc93be))
 * perf: use tools exit instead log ([470a197](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/470a197))
 
 
