@@ -9,7 +9,7 @@ Toolkit.run(tools => {
   
   awesomeReadmeLintDoubleLink(contents)
     .then(() => {
-      tools.exit.success(('Things are good')
+      tools.exit.success('Things are good')
     })
     .catch(error => {
       tools.exit.failure(error)
