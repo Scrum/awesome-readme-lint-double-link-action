@@ -8,5 +8,5 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
 branding:
-  icon: check-circe
+  icon: check-circle
   color: green
