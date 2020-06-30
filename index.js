@@ -12,7 +12,7 @@ Toolkit.run(tools => {
       tools.exit.success('Things are good')
     })
     .catch(error => {
-      tools.exit.failure(error)
+      tools.exit.failure(error.message)
     });
 }, {
   event: [
