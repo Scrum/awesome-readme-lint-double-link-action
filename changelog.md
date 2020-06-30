@@ -1,5 +1,13 @@
+## <small>0.1.3 (2020-06-30)</small>
+
+* build: resolve package lock ([19da361](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/19da361))
+
+
+
 ## <small>0.1.2 (2020-06-30)</small>
 
+* 0.1.2 ([a40989c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/a40989c))
+* build: update changelog ([577376c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/577376c))
 * build: update dep dev ([be5f64c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/be5f64c))
 
 
