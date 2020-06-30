@@ -1,5 +1,13 @@
+## <small>0.1.7 (2020-06-30)</small>
+
+* perf: use tools ([c0bd2b4](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/c0bd2b4))
+
+
+
 ## <small>0.1.6 (2020-06-30)</small>
 
+* 0.1.6 ([8553978](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/8553978))
+* build: update changelog ([c0044b2](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/c0044b2))
 * build: update dep dev ([a3ba322](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/a3ba322))
 
 
