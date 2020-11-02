@@ -1,5 +1,16 @@
+## <small>0.1.11 (2020-11-02)</small>
+
+* build: update dep dev ([6c2ca1e](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/6c2ca1e))
+* build(deps): bump @actions/core from 1.2.4 to 1.2.6 ([aa4aa61](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/aa4aa61))
+* build(deps): bump node-fetch from 2.6.0 to 2.6.1 ([7bc8315](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/7bc8315))
+* docs: add related ([0ebaebf](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/0ebaebf))
+
+
+
 ## <small>0.1.10 (2020-06-30)</small>
 
+* 0.1.10 ([ce6375c](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/ce6375c))
+* build: update changelog ([03f7723](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/03f7723))
 * perf: show only message ([ba737ed](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/ba737ed))
 
 
