@@ -1,5 +1,13 @@
+## <small>0.1.13 (2020-11-02)</small>
+
+* build: downgrade actions ([422d54b](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/422d54b))
+
+
+
 ## <small>0.1.12 (2020-11-02)</small>
 
+* 0.1.12 ([bfe9d2a](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/bfe9d2a))
+* build: update changelog ([514a2fb](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/514a2fb))
 * ci: downgrade node for ci ([9a94b50](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/9a94b50))
 
 
