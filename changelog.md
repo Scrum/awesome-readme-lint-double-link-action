@@ -1,5 +1,13 @@
+## <small>0.1.12 (2020-11-02)</small>
+
+* ci: downgrade node for ci ([9a94b50](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/9a94b50))
+
+
+
 ## <small>0.1.11 (2020-11-02)</small>
 
+* 0.1.11 ([3721731](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/3721731))
+* build: update changelog ([5608062](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/5608062))
 * build: update dep dev ([6c2ca1e](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/6c2ca1e))
 * build(deps): bump @actions/core from 1.2.4 to 1.2.6 ([aa4aa61](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/aa4aa61))
 * build(deps): bump node-fetch from 2.6.0 to 2.6.1 ([7bc8315](https://github.com/Scrum/awesome-readme-lint-double-link-action/commit/7bc8315))
