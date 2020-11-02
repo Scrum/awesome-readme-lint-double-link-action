@@ -1,5 +1,5 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "name": "awesome-readme-lint-double-link-action",
   "main": "index.js",
   "scripts": {
