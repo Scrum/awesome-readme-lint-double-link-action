@@ -16,6 +16,6 @@
     "@commitlint/config-angular": "^11.0.0",
     "conventional-changelog-cli": "^2.0.34",
     "husky": "^4.2.5",
-    "xo": "^0.34.1"
+    "xo": "^0.53.1"
   }
 }
